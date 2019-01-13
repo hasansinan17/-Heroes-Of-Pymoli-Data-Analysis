@@ -1,0 +1,7 @@
+•	We analyzed to see the purchasing trend of the people for different kinds of games based on their age, gender,
+•	There are about 1163 active players. Majority are male (84%). Number of Female players is smaller (14%).
+•	The highest age demographic falls between 20-24 yrs. (44.8%)
+•	The second group falls between 15-19 yrs. (18.60%)
+•	The rest of the people fall between 25-29yrs (13.4%)
+•	Males made more purchases of the games e. Age Demographics – 
+•	20-24 yr. old people made the largest group of clients - (44.8%)
